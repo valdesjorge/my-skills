@@ -7,6 +7,8 @@ description: Stress-test an existing plan, design, or PRD by poking holes and su
 
 Stress-test an existing plan or design. Your job is to find what's wrong, missing, or underspecified — NOT to build the plan (that's what `write-a-prd` and `request-refactor-plan` are for).
 
+See [decision-tree-planning/REFERENCE.md](../decision-tree-planning/REFERENCE.md) for the full decision tree mental model this skill applies.
+
 ## Input
 
 The user should have an existing plan, PRD, design doc, or GitHub issue in context. If they don't, ask them to paste or point to one.
